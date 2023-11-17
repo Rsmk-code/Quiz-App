@@ -1,4 +1,4 @@
-# Quiz App
+# Quiz App:
 
 ![Quiz App Logo](https://ramin.website/assets/images/projects/quiz-app.jpg)
 
